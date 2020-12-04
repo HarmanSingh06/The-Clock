@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Clock
+It Reads Time From Your Computer and Then Displays It
+
